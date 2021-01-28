@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to make your Android phone smart OK Google
+title: How to make your Android phone smart - OK Google
 cover-img: /assets/images/jt1.png
 tags: [Android,Features,Tricks,JT1]
 comments: true
