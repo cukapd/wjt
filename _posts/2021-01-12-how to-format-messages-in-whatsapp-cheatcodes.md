@@ -6,7 +6,8 @@ tags: [Android,Whatsapp,Features,JT4]
 comments: true
 ---
 
-```Overview:```
+{: .box-warning}
+Overview:
 
 • bold,italics,underlined,strikethrough. You need to style your fonts to make them look attractive whenever you send them to someone
 
@@ -16,7 +17,7 @@ comments: true
 {: .box-note}
 Steps:
 
-1. How do you make text _bold_ on Whatsapp?
+1. How do you make text _bold_ on Whatsapp? 
    To Bold a word - Add asterisks ( * ) to the either side of the *word*.
    Eg:  He Proposed. She accepted. *Society denied*.
 
