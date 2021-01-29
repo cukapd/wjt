@@ -7,17 +7,17 @@ comments: true
 ---
 
 {: .box-error}
-● Prequisites:
+Prequisites:
 
 • You must have Find My Device activated as Device Admin in smartphone's settings
 
 • You must have same Gmail account logged in lost phone and current device
 
-• Lost phone must have an active internet connection
+• Lost phone must have an active internet connection. 
 
 
 {: .box-note}
-● Steps:
+Steps:
 
 
 1. You can locate your device by signing into [https://android.com/find/](https://android.com/find/){:target="_blank"}
