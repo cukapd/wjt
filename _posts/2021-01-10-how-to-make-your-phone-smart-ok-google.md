@@ -8,15 +8,15 @@ last-updated: 2020-01-22
 ---
 
 {: .box-warning}
-● Pros:
+Pros:
 
 • Run your phone by your voice
 
-• When you say "Ok Google," the feature is ready to start recognising your voice
+• When you say "Ok Google," the feature is ready to start recognising your voice.
 
 
 {: .box-note}
-● Steps:
+Steps:
 
 1. Open the Google app from homescreen.
 
