@@ -7,7 +7,9 @@ comments: true
 ---
 
 ```Overview:```
+
 • bold,italics,underlined,strikethrough. You need to style your fonts to make them look attractive whenever you send them to someone
+
 • Thankfully Whatsapp supports mardkdown styles for font. Here's how you can tune fonts in Whatsapp
 
 
