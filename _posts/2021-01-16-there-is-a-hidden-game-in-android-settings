@@ -1,7 +1,7 @@
 ---
 layout: post
 title: There is a hidden game in settings - Android
-cover-img: /assets/images/jt3.png
+cover-img: /assets/images/jt3.jpg
 tags: [Android,Features,Games,JT3]
 comments: true
 ---
