@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Run Operating Systems like linux, windows through web on mobile - linuxzoo
+title: Run Operating Systems like linux, windows on web - linuxzoo
 cover-img: /assets/images/jt3.jpeg
 tags: [Android,Features,Tricks,JT1]
 comments: true
