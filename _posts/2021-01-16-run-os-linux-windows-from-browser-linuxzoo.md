@@ -2,26 +2,28 @@
 layout: post
 title: Run Operating Systems like linux, windows on web - linuxzoo
 cover-img: "/assets/images/wjt3.jpeg"
-tags: [OS,Linux,Windows,VNC,JT4]
+tags: [OS,Linux,Windows,VNC]
 comments: true
 last-updated: 2021-01-21
 ---
 
+``WJT3``
+
 {: .box-warning}
-Pros:
+• Pros:
 
 • Run any of major OS right from your mobile or pc browser
 
 • All major connection types supported - ssh, vnc. 
 
 {: .box-error}
-Cons:
+• Cons:
 
-• Does not support internet connection of system OS for security purposes. 
+• Does not support internet connection of system OS for security purposes
 
 
 {: .box-note}
-● Steps:
+• Steps:
 
 1. Go to [https://linuxzoo.net/vm/usercontrol.cgi](https://linuxzoo.net/vm/usercontrol.cgi){:target="_blank"}
 
