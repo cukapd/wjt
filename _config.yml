@@ -30,8 +30,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: https://avatars.githubusercontent.com/u/77948869?s=200&v=4
-
+title-img: 
 
 
 
@@ -115,7 +114,7 @@ footer-link-col: "#404040"
 #page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
-#mobile-theme-col: "#0085A1"
+mobile-theme-col: "#0099cc"
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
 #site-css:
