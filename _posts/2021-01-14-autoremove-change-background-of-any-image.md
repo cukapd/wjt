@@ -12,7 +12,7 @@ Overview:
 • Fully AI 
 • No manual cutting
 
-• Change BG with templates and even custom images
+• Change BG with templates and even custom images.
 
 
 {: .box-note}
