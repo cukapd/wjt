@@ -12,13 +12,13 @@ Pros:
 
 • Increase upto 50-100 followers per day
 
-• Follow 10 profiles daily and get upto 5 x return
+• Follow 10 profiles daily and get upto 5 x return.
 
 
 {: .box-note}
 Steps:
 
-1. Visit this link :  [https://app.socialfollow.co/][https://app.socialfollow.co/]{:target="_blank"}
+1. Visit this link :  [https://app.socialfollow.co/](https://app.socialfollow.co/){:target="_blank"}
 
 2. Register yourself.
 
