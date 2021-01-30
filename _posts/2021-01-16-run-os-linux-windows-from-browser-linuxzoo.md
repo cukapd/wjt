@@ -14,7 +14,7 @@ last-updated: 2021-01-21
 
 • Run any of major OS right from your mobile or pc browser
 
-• All major connection types supported - ssh, vnc. 
+• All major connection types supported - ssh, vnc
 
 {: .box-error}
 • Cons:
