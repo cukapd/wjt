@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Run Operating Systems like linux, windows on web - linuxzoo
-cover-img: "/assets/images/wjt3.jpeg"
+cover-img: "/assets/images/wjt3.png"
 tags: [OS,Linux,Windows,VNC]
 comments: true
 last-updated: 2021-01-21
