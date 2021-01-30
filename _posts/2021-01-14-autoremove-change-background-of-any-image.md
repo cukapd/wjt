@@ -2,22 +2,24 @@
 layout: post
 title: Remove or change background of any image automatically
 cover-img: /assets/images/wjt1.jpeg
-tags: [Editing,Photos,AI,Tools,WJT1]
+tags: [Editing,Photos,AI,Tools]
 comments: true
 last-updated: 2021-01-18
 ---
 
+``WJT1``
+
 {: .box-warning}
-Overview:
+• Overview:
 
 • Fully AI 
 • No manual cutting
 
-• Change BG with templates and even custom images.
+• Change BG with templates and even custom images
 
 
 {: .box-note}
-Steps:
+• Steps:
 
 1. Go to site :   [https://www.remove.bg](https://www.remove.bg){:target="_blank"}
 
