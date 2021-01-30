@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Web - Jawla Tech Solutions
+title: Web - Jawla Tech
 
 # Your name to show in the footer
 author: Jawla
@@ -14,10 +14,10 @@ author: Jawla
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-   - Home: "https://jawlatech.ml"
-   - Android: "https://android.jawlatech.ml"
-   - Desktop: "https://desktop.jawlatech.ml"
-   - Web: "https://web.jawlatech.ml"
+  Home: "https://jawlatech.ml"
+  Android: "https://android.jawlatech.ml"
+  Desktop: "https://desktop.jawlatech.ml"
+  Web: "https://web.jawlatech.ml"
 
 # --- Logo --- #
 
