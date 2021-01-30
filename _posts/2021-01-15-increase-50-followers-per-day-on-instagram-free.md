@@ -7,16 +7,18 @@ comments: true
 last-updated: 2021-01-22
 ---
 
+``WJT2``
+
 {: .box-warning}
-Pros:
+• Pros:
 
 • Increase upto 50-100 followers per day
 
-• Follow 10 profiles daily and get upto 5 x return.
+• Follow 10 profiles daily and get upto 5 x return
 
 
 {: .box-note}
-Steps:
+• Steps:
 
 1. Visit this link :  [https://app.socialfollow.co/](https://app.socialfollow.co/){:target="_blank"}
 
