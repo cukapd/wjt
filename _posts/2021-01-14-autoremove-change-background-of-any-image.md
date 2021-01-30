@@ -3,8 +3,8 @@ layout: post
 title: Remove or change background of any image automatically
 cover-img: /assets/images/wjt1.jpeg
 tags: [Editing,Photos,AI,Tools,WJT1]
-last-updated: 2021-01-18
 comments: true
+last-updated: 2021-01-18
 ---
 
 {: .box-warning}
