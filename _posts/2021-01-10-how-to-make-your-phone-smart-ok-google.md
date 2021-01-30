@@ -1,31 +1,38 @@
 ---
 layout: post
-title: How to make your Android phone smart - OK Google
-cover-img: /assets/images/jt1.png
+title: Run Operating Systems like linux, windows through web on mobile - linuxzoo
+cover-img: /assets/images/jt3.jpeg
 tags: [Android,Features,Tricks,JT1]
 comments: true
 last-updated: 2020-01-22
 ---
 
 {: .box-warning}
-● Pros:
+Pros:
 
-• Run your phone by your voice
+• Run any of major OS right from your mobile or pc browser
 
-• When you say "Ok Google," the feature is ready to start recognising your voice
+• All major connection types supported - ssh, vnc. 
+
+{: .box-error}
+Cons:
+
+• Does not support internet connection of system OS for security purposes. 
 
 
 {: .box-note}
 ● Steps:
 
-1. Open the Google app from homescreen.
+1. Go to [https://linuxzoo.net/vm/usercontrol.cgi](https://linuxzoo.net/vm/usercontrol.cgi){:target="_blank"}
 
-2. At the bottom right, tap on (≡) Menu and then click on Settings
+2. Register for a new account.
 
-3. Click on Voice and then Voice Match.
+3. After account signup Go to [https://linuxzoo.net](https://linuxzoo.net){:target="_blank"}
 
-4. Click on Say "Ok Google" at anytime and then Yes, I'm in.
+4. Login. Now click on join queue and select OS under control tab.
 
-5. Train it by your voice model as instructed by it.
+5. Click on switch on. Wait for the boot to be 100%
 
-6. Now your phone is setup with Google voice commands.
+6. Click on connect tab and click on Javascript VNC : VNC
+
+7. Enjoy, you will be redirected to your desired web based OS
