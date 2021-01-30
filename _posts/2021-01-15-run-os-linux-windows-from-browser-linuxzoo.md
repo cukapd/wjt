@@ -4,7 +4,7 @@ title: Run Operating Systems like linux, windows through web on mobile - linuxzo
 cover-img: /assets/images/jt3.jpeg
 tags: [Android,Features,Tricks,JT1]
 comments: true
-last-updated: 2020-01-22
+last-updated: 2021-01-23
 ---
 
 {: .box-warning}
