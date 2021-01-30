@@ -2,7 +2,7 @@
 layout: post
 title: Run Operating Systems like linux, windows on web - linuxzoo
 cover-img: "/assets/images/wjt3.jpeg"
-tags: [Android,Features,Tricks,JT1]
+tags: [OS,Linux,Windows,VNC,JT4]
 comments: true
 last-updated: 2021-01-21
 ---
