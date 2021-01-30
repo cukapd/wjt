@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Remove or change background of any image automatically
-cover-img: /assets/images/wjt1.png
-tags: [Android,Features,Games,JT3]
+cover-img: /assets/images/wjt1.jpeg
+tags: [Editing,Photos,AI,Tools,WJT1]
 comments: true
 ---
 
@@ -18,12 +18,12 @@ Overview:
 {: .box-note}
 Steps:
 
-1. Click here.    ![https://www.remove.bg](https://www.remove.bg)
+1. Go to site :   [https://www.remove.bg](https://www.remove.bg){:target="_blank"}
 
-2. Upload your desire photo 
+2. Upload your desire photo.
 
 3. Output will be the uploaded photo without background.
 
 4. As per your desire, you can change photo's background by the 'Edit' option. 
 
-5. Download your required photo.
+5. Download your required photo. 
