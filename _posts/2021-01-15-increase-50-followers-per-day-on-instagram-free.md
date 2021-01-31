@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Increase 50-100 followers per day on Instagram free
-cover-img: "/assets/images/wjt2.jpeg"
+cover-img: https://lh3.googleusercontent.com/pw/ACtC-3elUepmR27-S9CZGWKTCAMTDgg4aQpbPXCABbAoKE2JflMC-QsQHjmQOvBLtGFUWW4QPSofwV3HINzcp5Ts4A4_asSKXZ180nWqpOATDbUOw64_0OuOtRygAZTo9Wz7wpVFzbXlWk_u3IFR59rJcFLn=w715-h429-no?authuser=0
 tags: [Earn,Social Media,Followers]
 comments: true
 last-updated: 2021-01-22
