@@ -1,0 +1,6 @@
+# URL parameters blocking for SEO
+User-agent: *
+Disallow: /*feed.xml
+
+#sitemaps
+Sitemap: https://web.jawlatech.ml/sitemap.xml
