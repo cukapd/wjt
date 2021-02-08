@@ -20,9 +20,10 @@ last-updated: 2021-01-27
 • Steps:
 
 1. Download ToorDroid.
-Link: [https://www.spytox.com/](https://www.spytox.com/){:target="_blank"}
 
-2. Under the Mobile UI based block choose 'Call' from 'lookup | Call' tabs.
+   Link: [https://www.spytox.com/](https://www.spytox.com/){:target="_blank"}
+
+2. Under the Mobile UI based block choose 'Call' from 'lookup - Call' tabs.
 
 3. Enter the country code.
 
