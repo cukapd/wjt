@@ -2,7 +2,7 @@
 layout: post
 title: Send, Receive and manage Anonymous Emails - 5yMail
 cover-img: https://lh3.googleusercontent.com/jpo--9kpPhagRkiAYJex_N-XoX1TsWu3OpuPjzp0ZrAMzXuM7ddi-Niblic3slsYOUGXMk7vAY0k0GyHKo9NLReYv5fZ-Z6TYcdTyuwLq8JwNp5ks__vwdD1vAo-fJVq4rS0QoZ49w=w2400
-tags: [Privacy,Hacks,Tools,Mail]
+tags: [Privacy,Hacks,Mail]
 comments: true
 last-updated: 2021-01-29
 ---
