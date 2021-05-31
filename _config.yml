@@ -6,18 +6,18 @@
 # --- Required options --- #
 
 # Name of website
-title: Web - Jawla Tech
+title: Web - Jembo Tech
 
 # Your name to show in the footer
-author: Jawla Tech Solutions
+author: Jembo Tech Solutions
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: "https://jawlatech.ml"
-  Android: "https://android.jawlatech.ml"
-  Desktop: "https://desktop.jawlatech.ml"
-  Web ✴️: "https://web.jawlatech.ml" 
+  Home: "https://jembotech.ml"
+  Android: "https://android.jembotech.ml"
+  Desktop: "https://desktop.jembotech.ml"
+  Web ✴️: "https://web.jembotech.ml" 
 
 # --- Logo --- #
 
@@ -39,10 +39,10 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "jawlatech@gmail.com"
-  facebook: jawlatech
+  email: "jembotech@gmail.com"
+  facebook: jembotech
 #  github: none
-  twitter: jawla_tech
+  twitter: jembo_tech
 #  patreon: none
 #  youtube: c/none
 #  reddit: yourname
@@ -50,13 +50,13 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: none
-  instagram: jawla_tech
+  instagram: jembo_tech
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: none
 #  twitch: yourname
 #  yelp: yourname
-  telegram: jawlatech
+  telegram: jembotech
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
@@ -71,7 +71,7 @@ rss-description: Rock on with the technology
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  telegram: true
+  telegram: false
   facebook: true
   linkedin: false
   vk: false
@@ -90,7 +90,7 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "jawla,tech,solutions,technology,techy,geek,blog,harshit,apps,utility"
+keywords: "jembo,tech,solutions,technology,techy,geek,blog,apps,utility,jawla"
 
 # --- Colours / background image --- #
 
