@@ -23,7 +23,7 @@ last-updated: 2021-02-03
 
 1. Use following syntax for searching in browser
     
-   intitle:index.of?<file-extension> <your search>
+   intitle:index.of?&lt;derp<file-extension&lt;derp> your search
 
 2. eg, If you are looking for troy movie in mkv format:
   
