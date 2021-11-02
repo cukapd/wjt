@@ -8,7 +8,7 @@ comments: true
 last-updated: 2021-01-29
 ---
 
-``AJT6``
+``WJT6``
 
 {: .box-warning}
 • Pros:
