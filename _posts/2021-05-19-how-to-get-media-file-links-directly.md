@@ -4,7 +4,7 @@ title: How to get media file links directly in browser - indexof
 cover-img: https://lh3.googleusercontent.com/jYddpw6KndbWMw1obFMxMy9KWS_0cI7pQE3SR_cI2fgu9Qrf5k34xNYUBGpDTUstZOxhUUb2nMF9YAVMl90coH8gzHO1rRaA925pT4GTZI9oOVMwWeaYOEho6DfEHLCq6MT6HxIjdXw=s225-p-k
 tags: [Tricks]
 comments: true
-last-updated: 2021-02-03
+last-updated: 2021-09-06
 ---
 
 ``AJT8``
